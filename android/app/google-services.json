@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "863929088693",
+    "project_id": "secondhome-5bd85",
+    "storage_bucket": "secondhome-5bd85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863929088693:android:b00f58ca6f66330a841cfc",
+        "android_client_info": {
+          "package_name": "com.homy.Suman.homy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863929088693-ka5fccs11inh44m5i833qpe0np81iq1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcjB2BNcgYxk-eUkaZiOq8dGoDKOuh0Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863929088693-ka5fccs11inh44m5i833qpe0np81iq1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863929088693-ophokf5l7s3rais03pblhvccjvnbvg4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.homy.Suman"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
